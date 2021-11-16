@@ -4,6 +4,7 @@ header {
 
 body {
   background: linear-gradient(30deg, rgb(77,77,77), rgb(58,58,58));
+  color: rgb(60,60,60)
 }
 
 main ul {
@@ -27,4 +28,22 @@ main li img {
 
 .item-content {
   padding: 24px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.actions {
+  text-align: right;
+}
+
+.actions a {
+  text-decoration: none;
+  padding: 6px;
+  color: rgb(25,210,230);
+}
+
+.actions a:hover {
+  background-color: rgb(230,250,255);
+  border-radius: 5px;
 }
