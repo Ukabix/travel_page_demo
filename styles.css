@@ -7,8 +7,8 @@
 
 #hero-content {
   width: 900px;
-  background-color: rgba(51,47,47,0.8);
-  box-shadow: 2px 4px 8px rgb(68,67,67);
+  background-color: rgba(51, 47, 47, 0.8);
+  box-shadow: 2px 4px 8px rgb(68, 67, 67);
   border-radius: 12px;
   text-align: center;
   padding: 50px 0;
@@ -21,7 +21,7 @@
   color: white;
   text-transform: uppercase;
   font-size: 50px;
-  font-family: 'Raleway', sans-serif;
+  font-family: "Raleway", sans-serif;
   margin: 0;
 }
 
@@ -35,15 +35,15 @@
 
 #hero-content a {
   text-decoration: none;
-  background-color: rgb(255,250,0);
+  background-color: rgb(255, 250, 0);
   padding: 12px 24px;
   color: black;
   font-size: 24px;
   font-weight: bold;
   border-radius: 10px;
-  box-shadow: 2px 4px 8px rgb(68,68,68);
+  box-shadow: 2px 4px 8px rgb(68, 68, 68);
 }
 
 #hero-content a:hover {
-  background-color: rgb(125,125,125);
+  background-color: rgb(125, 125, 125);
 }
